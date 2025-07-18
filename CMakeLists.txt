@@ -40,3 +40,6 @@ endif()
 
 # STMEMSC - Hardware Abstraction Layer for ST sensor
 add_subdirectory_ifdef(CONFIG_HAS_STMEMSC sensor/stmemsc)
+
+# Embedded Cores
+add_subdirectory_ifdef(CONFIG_HAS_STMEMSC sensor/embedded_cores)

@@ -1,0 +1,9 @@
+[submodule "sensor/embedded_cores/st-mems-ispu"]
+	path = sensor/embedded_cores/st-mems-ispu
+	url = https://github.com/STMicroelectronics/st-mems-ispu
+[submodule "sensor/embedded_cores/st-mems-finite-state-machine"]
+	path = sensor/embedded_cores/st-mems-finite-state-machine
+	url = https://github.com/STMicroelectronics/st-mems-finite-state-machine
+[submodule "sensor/embedded_cores/st-mems-machine-learning-core"]
+	path = sensor/embedded_cores/st-mems-machine-learning-core
+	url = https://github.com/STMicroelectronics/st-mems-machine-learning-core
